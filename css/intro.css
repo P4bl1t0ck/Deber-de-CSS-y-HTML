@@ -1,0 +1,46 @@
+body{
+    background-color: #3f42f4;
+}
+header {
+    margin: 0 auto;
+    max-width: 1px solid red;
+
+}
+#logo{
+
+}
+main{
+    max-width: 1024px;
+    border:1px solid purple;
+    margin: 0 auto;
+
+
+}
+h1{
+
+}
+h2{
+
+}
+.service{
+    max-width: 720px;
+    border: 1px solid red;
+    
+}
+.service h3{
+    color : blue;
+}
+article{
+    display: block;
+    unicode-bidi: isolate;
+}
+.services-container{
+    margin : 0 0 0 20px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 10px;
+
+}
+.services-img{
+
+}
