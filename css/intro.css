@@ -217,3 +217,14 @@ article span {
         gap: /* Tu valor aquí */;
     }
 }
+
+
+@media screen and (min-width: 580px) and (max-width: 1023px){
+    body {
+        background-color: blue;
+        max-width: 1024px;
+        border: 1px solid red;
+        
+    }
+    
+}
